@@ -1,4 +1,4 @@
-Âpackage participle
+package participle
 
 import (
 	"fmt"
