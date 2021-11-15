@@ -4,7 +4,7 @@ import (
 	"strings"
 	"text/scanner"
 
-	"github.com/alecthomas/participle/lexer/ebnf/internal"
+	"github.com/7dog123/participle/lexer/ebnf/internal"
 )
 
 // TODO: Add a "repeatedrangeSet" to represent the common case of { set } ??

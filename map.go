@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/alecthomas/participle/lexer"
+	"github.com/7dog123/participle/lexer"
 )
 
 type mapperByToken struct {

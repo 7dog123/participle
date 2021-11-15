@@ -1,4 +1,4 @@
-// nolint: govet
+Â// nolint: govet
 package main
 
 import (
@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/alecthomas/kong"
-	"github.com/alecthomas/participle"
+	"github.com/7dog123/participle"
 )
 
 var cli struct {

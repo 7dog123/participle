@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/alecthomas/participle/lexer"
+	"github.com/7dog123/participle/lexer"
 )
 
 type stringerVisitor struct {

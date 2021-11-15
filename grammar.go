@@ -1,11 +1,11 @@
-package participle
+Âpackage participle
 
 import (
 	"fmt"
 	"reflect"
 	"text/scanner"
 
-	"github.com/alecthomas/participle/lexer"
+	"github.com/7dog123/participle/lexer"
 )
 
 type generatorContext struct {

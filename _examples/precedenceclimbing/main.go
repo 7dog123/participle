@@ -1,4 +1,4 @@
-// Package main shows an example of how to add precedence climbing to a Participle parser.
+Â// Package main shows an example of how to add precedence climbing to a Participle parser.
 //
 // Precedence climbing is an approach to parsing expressions that efficiently
 // produces compact parse trees.
@@ -17,8 +17,8 @@ import (
 
 	"github.com/alecthomas/repr"
 
-	"github.com/alecthomas/participle"
-	"github.com/alecthomas/participle/lexer"
+	"github.com/7dog123/participle"
+	"github.com/7dog123/participle/lexer"
 )
 
 type opInfo struct {

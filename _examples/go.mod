@@ -13,4 +13,4 @@ require (
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 )
 
-replace github.com/alecthomas/participle => ../
+replace github.com/7dog123/participle => ../

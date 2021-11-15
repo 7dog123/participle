@@ -12,8 +12,8 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/alecthomas/participle/lexer"
-	"github.com/alecthomas/participle/lexer/ebnf/internal"
+	"github.com/7dog123/participle/lexer"
+	"github.com/7dog123/participle/lexer/ebnf/internal"
 )
 
 // New creates a Lexer from an EBNF grammar.

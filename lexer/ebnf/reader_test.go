@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/alecthomas/participle/lexer"
+	"github.com/7dog123/participle/lexer"
 
 	"github.com/stretchr/testify/require"
 )

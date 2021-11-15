@@ -6,7 +6,7 @@ import (
 	"io"
 	"math"
 
-	"github.com/alecthomas/participle/lexer"
+	"github.com/7dog123/participle/lexer"
 	"github.com/alecthomas/repr"
 )
 

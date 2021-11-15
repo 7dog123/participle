@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/alecthomas/participle"
+	"github.com/7dog123/participle"
 )
 
 type pathExpr struct {

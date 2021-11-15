@@ -1,4 +1,4 @@
-module github.com/alecthomas/participle
+module github.com/7dog123/participle
 
 require (
 	github.com/alecthomas/repr v0.0.0-20181024024818-d37bc2a10ba1

@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/alecthomas/participle/lexer"
+	"github.com/7dog123/participle/lexer"
 )
 
 // Parse a BASIC program.

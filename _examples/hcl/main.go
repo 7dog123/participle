@@ -8,7 +8,7 @@ import (
 
 	"gopkg.in/alecthomas/kingpin.v2"
 
-	"github.com/alecthomas/participle"
+	"github.com/7dog123/participle"
 	"github.com/alecthomas/repr"
 )
 

@@ -1,7 +1,7 @@
 package participle
 
 import (
-	"github.com/alecthomas/participle/lexer"
+	"github.com/7dog123/participle/lexer"
 )
 
 // An Option to modify the behaviour of the Parser.

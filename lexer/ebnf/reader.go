@@ -4,7 +4,7 @@ import (
 	"io"
 	"unicode/utf8"
 
-	"github.com/alecthomas/participle/lexer"
+	"github.com/7dog123/participle/lexer"
 )
 
 // A rewindable rune reader.

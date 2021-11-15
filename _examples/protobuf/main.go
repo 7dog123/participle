@@ -8,8 +8,8 @@ import (
 	"github.com/alecthomas/kong"
 	"github.com/alecthomas/repr"
 
-	"github.com/alecthomas/participle"
-	"github.com/alecthomas/participle/lexer"
+	"github.com/7dog123/participle"
+	"github.com/7dog123/participle/lexer"
 )
 
 type Proto struct {

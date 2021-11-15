@@ -3,8 +3,8 @@ package main
 
 import (
 	"github.com/alecthomas/kong"
-	"github.com/alecthomas/participle"
-	"github.com/alecthomas/participle/lexer"
+	"github.com/7dog123/participle"
+	"github.com/7dog123/participle/lexer"
 	"github.com/alecthomas/repr"
 )
 

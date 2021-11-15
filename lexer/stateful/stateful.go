@@ -38,8 +38,8 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/alecthomas/participle"
-	"github.com/alecthomas/participle/lexer"
+	"github.com/7dog123/participle"
+	"github.com/7dog123/participle/lexer"
 )
 
 var (
