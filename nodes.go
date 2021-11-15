@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/â7dog123/participle/lexer"
+	"github.com/7dog123/participle/lexer"
 )
 
 var (
